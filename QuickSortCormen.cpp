@@ -28,7 +28,7 @@ void quickSort(int arr[], int left, int right)
     }
 }
 
-int main() //Program g³ówny//
+int main() //Program gÂ³Ã³wny//
 {
   int i;
   int size;
@@ -38,7 +38,7 @@ int main() //Program g³ówny//
   int t[size];
 cout<<"Tablica przed sortowaniem:\n\n";
 
-// Wype³niam tablicê t[] liczbami pseudolosowymi i wyœwietlam jej zawartoœæ
+// WypeÂ³niam tablicÃª t[] liczbami pseudolosowymi i wyÅ“wietlam jej zawartoÅ“Ã¦
 
   srand((unsigned)time(NULL));
 
