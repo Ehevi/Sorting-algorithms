@@ -18,7 +18,7 @@ void bubbleSort(int arr[], int n)
     }
 }
 
-int main() //Program g≥Ûwny//
+int main() //Program g≈Ç√≥wny//
 {
   int i;
   int size;
@@ -28,7 +28,7 @@ int main() //Program g≥Ûwny//
   int t[size];
 cout<<"Tablica przed sortowaniem:\n\n";
 
-// Wype≥niam tablicÍ t[] liczbami pseudolosowymi i wyúwietlam jej zawartoúÊ
+// Wype≈Çniam tablicƒô t[] liczbami pseudolosowymi i wy≈õwietlam jej zawarto≈õƒá
 
   srand((unsigned)time(NULL));
 
